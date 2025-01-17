@@ -1,0 +1,2 @@
+# 8-bitVendingMachineProcessor
+TheVendingmachine features twodi erent itemswith di erentpricesandacceptscoinsof1,2and5rupeeworth. Thepricesoftheitemscanbesetbythetester.
